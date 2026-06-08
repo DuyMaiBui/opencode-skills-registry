@@ -2,7 +2,11 @@
   "version": "1.0.0",
   "modules": {
     "core": {
-      "skills": {},
+      "skills": {
+        "hello-world": {
+          "1.0.0": "core/skills/hello-world/1.0.0.tar.gz"
+        }
+      },
       "agents": {}
     },
     "unity": {
